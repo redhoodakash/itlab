@@ -1,0 +1,32 @@
+<html>
+	<head>
+		<title>BEST FEATURES OF INTERNET</title>
+	</head>
+	<body>
+	<p><h1><b>The Best Features of Internet</h1></b>
+<ul>
+<li>you can meet new peoplefrom countries around the world.</li>
+<li>you can have access to new media as it becomes available.</li>
+	<ul TYPE ="square">
+	<li>new games</li>
+	<li>New applications</li>
+		<ol TYPE ="a" START="6">
+		<li>For business</li>
+		<li>For pleasure</li>
+		</ol>
+	<li>around the clock news</li>
+	<li>search engines</li>
+	<li>Shopping</li>
+	<li>Programming</li>
+		<ol TYPE ="1" START="10">
+		<li>XML</li>
+		<li>Java</li>
+		<li>HTML5</li>
+		<li>Javascript</li>
+		</ol>
+	<li>Links</li>
+	<li>It's the technology of future.</li>
+	</ul>
+</p>
+	</body>
+</html>
